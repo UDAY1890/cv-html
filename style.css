@@ -1,0 +1,17 @@
+body{
+    margin:10px;
+}
+.container{
+    border:3px solid black;
+    margin: 10%;
+    padding: 80px;
+}
+h3{
+    margin:12px;
+}
+hr{
+    font-weight:bolder;
+}
+#list{
+    margin-bottom: 40px;
+}
